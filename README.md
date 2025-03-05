@@ -33,7 +33,7 @@ Este é um projeto simples desenvolvido em **React Native** com **Expo**, que ap
 
 ## 📸 Preview da Tela
 
-<img src="https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/fluffyamericanpancak_74828_16x9.jpg" width="300" alt="Imagem do Produto - Panquecas">
+!(DetalhesProduto)[https://github.com/CristianeSanMiguel/DetalhesProduto/blob/main/assets/DetalhesProduto.png]
 
 ---
 
@@ -71,14 +71,3 @@ Este é um projeto simples desenvolvido em **React Native** com **Expo**, que ap
 - Implementar navegação real usando `React Navigation`.
 - Buscar dados do produto de uma API externa.
 - Criar um contexto global para o carrinho de compras.
-
----
-
-## 💻 Autor
-
-Projeto desenvolvido por **[Seu Nome]** — estudante e entusiasta de React Native.
-
-[LinkedIn](https://www.linkedin.com/in/seu-perfil) | [GitHub](https://github.com/seu-usuario)
-
----
-
