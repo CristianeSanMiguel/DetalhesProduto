@@ -1,10 +1,84 @@
-# React Native with Expo template
+# Tela de Detalhes de Produto - React Native com Expo
 
-By default Expo web is automatically running but you can use the QR code in the application log to open Expo on your iOS or Android device. 
+Este é um projeto simples desenvolvido em **React Native** com **Expo**, que apresenta uma tela de detalhes de um produto (panquecas). O objetivo é praticar conceitos como estado, componentes, estilização e interatividade em aplicativos mobile.
 
-Add your [configuration](https://codesandbox.io/docs/projects/learn/setting-up/tasks) to optimize it for [CodeSandbox](https://codesandbox.io/p/dashboard).
+---
 
-## Resources
+## 📱 Funcionalidades
 
-- [CodeSandbox — Docs](https://codesandbox.io/docs/learn)
-- [CodeSandbox — Discord](https://discord.gg/Ggarp3pX5H)
+- Exibe nome, imagem e descrição do produto.
+- Controle de quantidade com botões de aumento e diminuição.
+- Mostra o preço do produto.
+- Botão para adicionar ao carrinho.
+- Botão para compra imediata.
+- Botão de "favoritar" o produto, com troca dinâmica de ícone.
+- Exibe informações extras como: avaliação, calorias e tempo de preparo.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- React Native
+- Expo
+- StyleSheet para estilização
+
+---
+
+## 📂 Estrutura do Projeto
+
+📂 src └── App.js (código principal) └── assets (pasta sugerida para armazenar imagens locais, caso queira adicionar depois)
+
+
+---
+
+## 📸 Preview da Tela
+
+<img src="https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/fluffyamericanpancak_74828_16x9.jpg" width="300" alt="Imagem do Produto - Panquecas">
+
+---
+
+## 🚀 Como Executar
+
+1. Clone este repositório:
+    ```bash
+    git clone https://github.com/seu-usuario/seu-repositorio.git
+    ```
+2. Instale as dependências:
+    ```bash
+    cd seu-repositorio
+    npm install
+    ```
+3. Inicie o Expo:
+    ```bash
+    npx expo start
+    ```
+4. Use o app **Expo Go** no seu celular para escanear o QR Code e testar o app no seu dispositivo.
+
+---
+
+## 📚 Aprendizados
+
+- Manipulação de estado com `useState`
+- Criação de componentes com `View`, `Text`, `Image`, `TouchableOpacity`
+- Estilização com `StyleSheet`
+- Exibição condicional de ícones (favoritar)
+- Layout com `flexbox`
+
+---
+
+## ✨ Melhorias Futuras (ideias)
+
+- Implementar navegação real usando `React Navigation`.
+- Buscar dados do produto de uma API externa.
+- Criar um contexto global para o carrinho de compras.
+
+---
+
+## 💻 Autor
+
+Projeto desenvolvido por **[Seu Nome]** — estudante e entusiasta de React Native.
+
+[LinkedIn](https://www.linkedin.com/in/seu-perfil) | [GitHub](https://github.com/seu-usuario)
+
+---
+
