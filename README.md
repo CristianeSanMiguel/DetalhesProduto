@@ -33,7 +33,7 @@ Este é um projeto simples desenvolvido em **React Native** com **Expo**, que ap
 
 ## 📸 Preview da Tela
 
-!(DetalhesProduto)[https://github.com/CristianeSanMiguel/DetalhesProduto/blob/main/assets/DetalhesProduto.png]
+![Detalhes Produto](https://github.com/CristianeSanMiguel/DetalhesProduto/blob/main/assets/DetalhesProduto.png)
 
 ---
 
