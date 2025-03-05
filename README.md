@@ -41,7 +41,7 @@ Este é um projeto simples desenvolvido em **React Native** com **Expo**, que ap
 
 1. Clone este repositório:
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/CristianeSanMiguel/DetalhesProduto.git
     ```
 2. Instale as dependências:
     ```bash
