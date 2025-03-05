@@ -24,13 +24,6 @@ Este é um projeto simples desenvolvido em **React Native** com **Expo**, que ap
 
 ---
 
-## 📂 Estrutura do Projeto
-
-📂 src └── App.js (código principal) └── assets (pasta sugerida para armazenar imagens locais, caso queira adicionar depois)
-
-
----
-
 ## 📸 Preview da Tela
 
 ![Detalhes Produto](https://github.com/CristianeSanMiguel/DetalhesProduto/blob/main/assets/DetalhesProduto.png)
